@@ -1,7 +1,3 @@
-String str1 = "123";
-String str2 = new String("123");
-if(str1 == str2){
-  println(“equal")；
-}else{
-  println("Not equal")；
+for(x in 1..5){
+  println x //0,1,2,3,4,5
 }
